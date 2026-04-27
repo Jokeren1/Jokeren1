@@ -1,1 +1,1 @@
-Hello, I’m Inha Kim, I'm an aspiring programmer with the very basic fundamentals, but I do like to try making some small projects for my own entertainment from time to time so that way I can try to be better. I hope that I can make some cool things with cool people one day, but until then, it was nice meeting you.
+I (try to) code :]
